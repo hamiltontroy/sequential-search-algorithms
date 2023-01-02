@@ -25,7 +25,7 @@
         std::cout << "The sequence MM resides at index: " << n << std::endl;
         // The sequence MM resides at index: 1022
     }
-
+    
 */
 
 template <typename T, typename N>
