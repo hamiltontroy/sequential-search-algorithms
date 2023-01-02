@@ -30,7 +30,7 @@ template <typename T, typename N>
 const T* findTermAddress(const T bucket[], const T term[], const N bucketlen,
     const N termlen);
 /*
-    findTermAddress() is the ssame as findTermIndex, except it
+    findTermAddress() is the same as findTermIndex, except it
     returns the address to the found term, instead of the index.
     
     returns nullptr if the term was not found.
