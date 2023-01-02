@@ -33,5 +33,5 @@ const T* findTermAddress(const T bucket[], const T term[], const N bucketlen,
     findTermAddress() is the ssame as findTermIndex, except it
     returns the address to the found term, instead of the index.
     
-    returns nullptr on if the term was not found.
+    returns nullptr if the term was not found.
 */
