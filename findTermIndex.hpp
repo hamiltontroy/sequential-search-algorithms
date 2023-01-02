@@ -1,4 +1,5 @@
-/*
+/* Troy Hamilton. No guarantees offered.
+
     template <typename T, typename N>
     const N findTermIndex(const T bucket[], const T term[], const N bucketlen, 
         const N termlen);
